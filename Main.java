@@ -13,7 +13,7 @@ public class Main {
         
         for (int ii=1; ii <= fibonacciCount; ii++)
         {
-            System.out.println(" " + methodFibonacci(ii));
+            System.out.print(" " + methodFibonacci(ii));
         }
     }
     
